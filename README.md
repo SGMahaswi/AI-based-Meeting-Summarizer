@@ -5,10 +5,7 @@
 
 The **EchoMind AI** is a Gradio-powered application that converts audio recordings of meetings into transcripts and provides concise summaries using `whisper.cpp` for audio-to-text conversion and `Ollama` for text summarization. This tool is ideal for quickly extracting key points, decisions, and action items from meetings.
 
-<img width="1512" alt="Screenshot 2024-10-01 at 10 05 32 PM" src="https://github.com/user-attachments/assets/5b93cfed-c853-4ebb-8d90-bbda58354192">
 
-
-https://github.com/user-attachments/assets/2f1de19d-0feb-4a35-a6ab-f9be8dabf512
 
 
 
@@ -133,6 +130,8 @@ To download a different Whisper model (e.g., `base`, `medium`, `large`), use the
    This will download the `.bin` file into the `whisper.cpp/models` directory.
 
 3. Once downloaded, the new model will automatically be available in the model dropdown when you restart the application.
+   
+https://github.com/user-attachments/assets/2f1de19d-0feb-4a35-a6ab-f9be8dabf512
 
 ### Configuring Translation
 
@@ -144,6 +143,7 @@ By default, Whisper will detect the language of the audio file and translate it 
 
 This flag tells Whisper to translate the audio into French regardless of the original language.
 
+<img width="1512" alt="Screenshot 2024-10-01 at 10 05 32 PM" src="https://github.com/user-attachments/assets/5b93cfed-c853-4ebb-8d90-bbda58354192">
 
 ## Acknowledgements
 
