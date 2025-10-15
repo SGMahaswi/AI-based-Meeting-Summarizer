@@ -1,0 +1,18 @@
+EchoMind is an AI-powered meeting summarizer designed to transform hours of conversations into actionable insights within minutes.
+It combines the power of Whisper.cpp for accurate speech-to-text conversion and Ollama for advanced text summarization — all wrapped in a user-friendly Gradio interface.
+
+Built to enhance productivity and collaboration, EchoMind integrates seamlessly with platforms like Zoom, Google Meet, and Microsoft Teams via Recall.ai, ensuring every voice is captured, identified, and remembered.
+
+💡 Key Highlights:
+
+Converts meeting audio into text using Whisper.cpp
+
+Generates concise, human-like summaries using LLMs via Ollama
+
+Supports multiple models and languages
+
+Provides speaker diarization for clarity on who said what
+
+Built with a minimal and interactive Gradio interface
+
+Ideal for teams, educators, and professionals who need quick meeting recaps
