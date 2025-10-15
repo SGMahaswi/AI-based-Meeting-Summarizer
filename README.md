@@ -1,9 +1,9 @@
 
-# AI-Powered Meeting Summarizer
+# EchoMind AI
 
 ## Overview
 
-The **AI-Powered Meeting Summarizer** is a Gradio-powered application that converts audio recordings of meetings into transcripts and provides concise summaries using `whisper.cpp` for audio-to-text conversion and `Ollama` for text summarization. This tool is ideal for quickly extracting key points, decisions, and action items from meetings.
+The **EchoMind AI** is a Gradio-powered application that converts audio recordings of meetings into transcripts and provides concise summaries using `whisper.cpp` for audio-to-text conversion and `Ollama` for text summarization. This tool is ideal for quickly extracting key points, decisions, and action items from meetings.
 
 <img width="1512" alt="Screenshot 2024-10-01 at 10 05 32 PM" src="https://github.com/user-attachments/assets/5b93cfed-c853-4ebb-8d90-bbda58354192">
 
